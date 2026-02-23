@@ -1,3 +1,5 @@
 python-telegram-bot
 firebase-admin==7.1.0
 python-dotenv==1.0.0
+easyocr
+opencv-python-headless
